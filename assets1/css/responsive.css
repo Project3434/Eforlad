@@ -1,0 +1,363 @@
+/* Normal desktop :1700px. */
+@media (min-width: 1700px) and (max-width: 1920px) {
+
+
+
+}
+/* Normal desktop :1500px. */
+@media (min-width: 1500px) and (max-width: 1700px) {
+.sticky-nav .search-box-btn.search-box-outer i {
+    left: 15px;
+}
+.heder-menu {
+    right: -180px;
+}
+
+
+
+}
+/* Normal desktop :1200px. */
+@media (min-width: 1300px) and (max-width: 1499px) {
+.sticky-nav .search-box-btn.search-box-outer i {
+    left: -25px;
+    color: #2c2c51;
+}
+
+.heder-menu {
+    right: -50px;
+}
+.sticky-nav {
+    padding: 0 50px 7px;
+}
+.sticky-nav .heder-menu {
+    left: 11%;
+}
+.main-header {
+    padding: 0  60px 0px;
+}
+
+}
+/* Normal desktop :1176px. */
+@media (min-width: 1176px) and (max-width: 1299px) {
+
+.heder-menu {
+    right: -50px;
+}
+.sticky-nav {
+    padding: 0 50px 7px;
+}
+.sticky-nav .heder-menu {
+    left: 11%;
+}
+.main-header {
+    padding: 0  60px 0px;
+}
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1175px) {
+.main-header {
+    margin-bottom: -103px;
+}
+.heder-menu {
+    right: -30px;
+}
+.heder-menu ul li {
+    margin-right: 0;
+}
+.sticky-nav .heder-menu {
+    left: 7%;
+}
+.slider-title h1 {
+    font-size: 60px;
+}
+.form-button button {
+    padding: 10px 23px;
+}
+.about-thumb {
+    left: 0;
+}
+.main-title h2 {
+    font-size: 40px;
+}
+.about-area .section-discription p {
+    width: 100%;
+}
+.front-price {
+    right: -116px;
+}
+.flip-title h2 {
+    font-size: 25px;
+}
+.faciliti-title h2 {
+    font-size: 17px;
+}
+.blog-titles h2 a {
+    font-size: 30px;
+}
+.single-boking-form .form-button button {
+    padding: 12px 110px;
+}
+.footer-address p {
+    font-size: 14px;
+}
+.single-service-section .form-button button {
+    padding: 15px 30px;
+}
+.main-header {
+    padding: 0  50px 0px;
+}
+.sticky-nav {
+    padding: 0 50px 7px;
+}
+
+
+
+
+
+
+}
+/* small mobile :768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.slider-title h1 {
+    font-size: 45px;
+}
+.about-thumb {
+    left: 0;
+}
+.main-title h2 {
+    font-size: 40px;
+}
+.section-discription p {
+    width: 65%;
+}
+.luxury-hotel-section .luxury-thumb {
+    margin-left: 0;
+    margin-bottom: 40px;
+}
+.luxury-button {
+    margin-bottom: 40px;
+}
+.luxury-hotel-section .section-title {
+    margin-top: 60px;
+}
+.luxury-hotel-section.upper .luxury-thumb {
+    margin-right: 0;
+}
+.luxury-service-section .luxury-single-service {
+    margin-top: 50px;
+}
+.call-do-action-area .single-boking-form {
+    margin-top: 50px;
+}
+.blog-area.upper .blog-titles h2 a {
+    font-size: 28px;
+}
+.blog-area.upper .blog-title a {
+    font-size: 15px;
+    margin-left: 0;
+}
+.blog-area.upper .blog-title span {
+    font-size: 14px;
+}
+
+
+
+
+
+
+}
+/* small mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+.slider-title h1 {
+    font-size: 50px;
+}
+.slider-discription p {
+    font-size: 20px;
+    width: 90%;
+}
+.about-thumb {
+    left: 0;
+    margin-bottom: 50px;
+}
+.front-price {
+    right: -220px;
+}
+.main-title h2 {
+    font-size: 30px;
+}
+.sub-title h5 {
+    font-size: 15px;
+}
+.section-discription p {
+    width: 90%;
+}
+.luxury-hotel-section .luxury-thumb {
+    margin-left: 0;
+    margin-bottom: 50px;
+}
+.luxury-button {
+    margin-bottom: 50px;
+}
+.luxury-hotel-section .section-title {
+    margin-top: 50px;
+}
+.luxury-service-section .luxury-single-service {
+    margin-top: 50px;
+}
+.call-do-action-area .single-boking-form {
+    margin-top: 50px;
+}
+.single-boking-form .form-button button {
+    padding: 12px 130px;
+}
+.widgets-company-information ul {
+    margin-bottom: 26px;
+}
+.copyright-title {
+    text-align: center;
+}
+.copyright-menu ul {
+    text-align: center;
+}
+.footer-area .form-icon {
+    right: 50px;
+}
+.flip-area {
+    padding: 100px 12px;
+}
+
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 599px) {
+.single-boking-form .form-button button {
+    padding: 12px 50px;
+    font-size: 13px;
+}
+.slider-title h5 {
+    letter-spacing: 4px;
+    font-size: 15px;
+}
+.slider-title h1 {
+    font-size: 30px;
+    line-height: 40px;
+    margin: 0;
+}
+.slider-discription p {
+    font-size: 18px;
+    line-height: 25px;
+    width: 100%;
+}
+.about-thumb {
+    left: 0;
+    margin-bottom: 50px;
+}
+.main-title h2 {
+    font-size: 28px;
+    line-height: 1.2;
+}
+.about-area .section-discription p {
+    width: 100%;
+}
+.about-title h2 {
+    font-size: 17px;
+}
+.about-title p {
+    font-size: 16px;
+    line-height: 20px;
+    width: 100%;
+}
+.front-price {
+    right: -113px;
+}
+.section-discription p {
+    font-size: 16px;
+    width: 100%;
+    line-height: 20px;
+}
+.luxury-hotel-section .luxury-thumb {
+    margin-left: 0;
+    margin-bottom: 50px;
+}
+.luxury-hotel-section .luxury-button {
+    margin-bottom: 40px;
+}
+.luxury-hotel-section .section-title {
+    margin-top: 50px;
+}
+.luxury-hotel-section.upper .luxury-button {
+    margin-top: 30px;
+}
+.luxury-service-section {
+    padding: 80px 0 70px;
+}
+.luxury-service-section .luxury-single-service {
+    margin-top: 50px;
+}
+.luxury-service-section .icon-list ul li {
+    font-size: 16px;
+}
+.blog-titles h2 a {
+    font-size: 30px;
+}
+.call-do-action-area .single-boking-form {
+    margin-top: 50px;
+}
+.single-boking-form .main-title h2 {
+    font-size: 25px;
+}
+.widgets-company-information ul {
+    margin-bottom: 26px;
+}
+.about-area.upper .video-icon {
+    top: 30%;
+}
+.blog-area.upper .blog-title a {
+    font-size: 13px;
+    margin-left: 0;
+}
+.blog-area.upper .blog-title span {
+    font-size: 13px;
+}
+.blog-area.upper .blog-titles h2 a {
+    font-size: 23px;
+}
+.single-service-section .main-title h2 {
+    font-size: 30px;
+}
+.single-service-section .service-icon-list ul li {
+    font-size: 13px;
+}
+.single-service-section .form-button button {
+    padding: 15px 40px;
+}
+.luxury-hotel-section {
+    padding: 0px 0 121px;
+}
+
+
+
+}
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 991px) {
+
+.main-header {
+    display: none!important;
+}
+header.main-header {
+    display: none;
+}
+.top-header {
+    display: none;
+}
+.flip-area {
+    padding: 100px 12px;
+}
+
+
+
+}
+
