@@ -1246,7 +1246,7 @@ ul.conta li a {
 .inner_page .header {
     position: inherit;
 }
-.inner_page .header_midil {background-color: #111111f2;}
+.inner_page .header_midil {background-color:black;}
 .bg_inner_all .titlepage {
     padding: 40px 0;
 }
